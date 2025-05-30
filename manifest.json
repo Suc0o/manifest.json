@@ -1,26 +1,31 @@
-{
-  "name": "Beleza Cash",
-  "short_name": "BelezaCash",
-  "id": "/",
-  "start_url": "/",
-  "description": "Que tal ter a beleza do seu dinheiro de volta? Aproveite nosso sistema de cashback e afiliação.",
-  "background_color": "#FFFFFF",
-  "theme_color": "#FD0DA5",
-  "display": "standalone",
-  "orientation": "portrait",
-  "lang": "pt-BR",
-  "dir": "ltr",
-  "scope": "/",
-  "icons": [
-    {
-      "src": "icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ]
-}
+"launch_handler": {
+  "client_mode": "focus-existing"
+},
+"icons": [
+  {
+    "src": "icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "any maskable"
+  },
+  {
+    "src": "icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }
+],
+"screenshots": [
+  {
+    "src": "screenshot1.png",
+    "type": "image/png",
+    "sizes": "540x960",
+    "label": "Página inicial"
+  },
+  {
+    "src": "screenshot2.png",
+    "type": "image/png",
+    "sizes": "540x960",
+    "label": "Dashboard de cashback"
+  }
+]
