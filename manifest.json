@@ -1,6 +1,26 @@
 {
-  "categories": [
-    "finance",
-    "lifestyle"
+  "name": "Beleza Cash",
+  "short_name": "BelezaCash",
+  "id": "/",
+  "start_url": "/",
+  "description": "Que tal ter a beleza do seu dinheiro de volta? Aproveite nosso sistema de cashback e afiliação.",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FD0DA5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
   ]
 }
