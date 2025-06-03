@@ -1,31 +1,43 @@
-"launch_handler": {
-  "client_mode": "focus-existing"
-},
-"icons": [
-  {
-    "src": "icon-192x192.png",
-    "sizes": "192x192",
-    "type": "image/png",
-    "purpose": "any maskable"
+{
+  "name": "Beleza Cash",
+  "short_name": "BelezaCash",
+  "start_url": "www.belezacash.com.br",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#fd0da5",
+
+  "launch_handler": {
+    "client_mode": "focus-existing"
   },
-  {
-    "src": "icon-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any maskable"
-  }
-],
-"screenshots": [
-  {
-    "src": "screenshot1.png",
-    "type": "image/png",
-    "sizes": "540x960",
-    "label": "Página inicial"
-  },
-  {
-    "src": "screenshot2.png",
-    "type": "image/png",
-    "sizes": "540x960",
-    "label": "Dashboard de cashback"
-  }
-]
+
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x960",
+      "label": "Página inicial"
+    },
+    {
+      "src": "screenshot2.png",
+      "type": "image/png",
+      "sizes": "540x960",
+      "label": "Dashboard de cashback"
+    }
+  ]
+}
