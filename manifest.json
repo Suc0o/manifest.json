@@ -13,13 +13,13 @@
 
   "icons": [
     {
-      "src": "/icon1.png",
+      "src": "icon1.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon.png",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -28,13 +28,13 @@
 
   "screenshots": [
     {
-      "src": "/screenshot1.png",
+      "src": "screenshot1.png",
       "type": "image/png",
       "sizes": "540x960",
       "label": "Página inicial"
     },
     {
-      "src": "/screenshot2.png",
+      "src": "screenshot2.png",
       "type": "image/png",
       "sizes": "540x960",
       "label": "Dashboard de cashback"
