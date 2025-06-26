@@ -1,7 +1,7 @@
 {
   "name": "Beleza Cash",
   "short_name": "BelezaCash",
-  "start_url": "www.belezacash.com.br/index",
+  "start_url": "/index",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
