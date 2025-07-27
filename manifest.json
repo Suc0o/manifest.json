@@ -11,13 +11,10 @@
   "dir": "ltr",
   "lang": "pt-BR",
   "prefer_related_applications": false,
-  "iarc_rating_id": "",
   "categories": ["shopping", "lifestyle", "beauty"],
-  
   "launch_handler": {
     "client_mode": "focus-existing"
   },
-
   "icons": [
     {
       "src": "icon1.png",
@@ -32,7 +29,6 @@
       "purpose": "maskable"
     }
   ],
-
   "screenshots": [
     {
       "src": "screenshot1.png",
@@ -45,6 +41,11 @@
       "type": "image/png",
       "sizes": "540x960",
       "label": "Dashboard de cashback"
+    }
+  ],
+  "handle_links": [
+    {
+      "href": "https://www.belezacash.com.br/*"
     }
   ]
 }
