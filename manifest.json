@@ -6,7 +6,12 @@
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#fd0da5",
-
+  "description": "O Beleza Cash é um aplicativo que conecta quem oferece a quem procura serviços de beleza, estética e cuidados pessoais. Essa é a oportunidade para clientes que querem fazer uma renda extra indicando pessoas para utilizarem os serviços nos estabelecimentos parceiros.",
+  "id": "/index",
+  "dir": "ltr",
+  "iarc_rating_id": "",
+  "categories": ["shopping", "lifestyle", "beauty"],
+  
   "launch_handler": {
     "client_mode": "focus-existing"
   },
@@ -16,13 +21,13 @@
       "src": "icon1.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ],
 
